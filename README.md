@@ -2,7 +2,7 @@
 
 # merakiLifecycleReport
 Obtain a lifecycle report from all of your Cisco Meraki organizations, detailing how many of your devices have EoL announcements published.
-*Note: This is a vibe coded modernization of Francisco-1088's work with focuses on compatibility with modern python versions, reduced dependency requirements, adjustments to overcome changes on Meraki's end, and minor quality of life improvements.*
+*Note: This is vibe coded attempt at modernizing Francisco-1088's work with focuses on compatibility with modern python versions, reduced dependency requirements, adjustments to overcome changes on Meraki's end, and minor quality of life improvements.*
 
 ![image alt text](images/lifecycle_report.png)
 
@@ -55,7 +55,7 @@ Selecting a single organization.
 
 ![image alt text](images/multi_org.png)
 Selecting multiple organizations.  
-<mark>*Note: '/all' has also been added as an option.*</mark>
+<mark>*Note: 'all' has also been added as an option.*</mark>
 
 <a name="results"></a>
 
@@ -79,6 +79,7 @@ For more information on Meraki support procedures and warranties visit:
 1. [Returns, Warranties and End-of-Life Information](https://documentation.meraki.com/General_Administration/Other_Topics/Returns_(RMAs)%2C_Warranties_and_End-of-Life_Information)
 2. [Meraki End-of-Life (EOL) Products and Dates](https://documentation.meraki.com/General_Administration/Other_Topics/Meraki_End-of-Life_(EOL)_Products_and_Dates)
 3. [Meraki Support Overview](https://meraki.cisco.com/meraki-support/overview/)
+
 
 
 
